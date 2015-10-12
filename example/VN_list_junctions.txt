@@ -1,0 +1,3 @@
+normals/junctions/allJunctionsBeta-NA06985-200-37-ASM.tsv
+normals/junctions/allJunctionsBeta-NA06994-200-37-ASM.tsv
+normals/junctions/allJunctionsBeta-NA07357-200-37-ASM.tsv

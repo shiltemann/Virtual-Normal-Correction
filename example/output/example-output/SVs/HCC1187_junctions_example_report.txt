@@ -1,0 +1,37 @@
+report of run 1:
+----------------------
+#GENERATED_BY	cgatools
+#GENERATED_AT	2015-Oct-12 16:06:03.542623
+#CGATOOLS_VERSION	1.8.0
+#FORMAT_VERSION	2.4
+#TYPE	JUNCTIONDIFF_REPORT
+
+>fileId	inputJunctions	filteredJunctions	incompatible	filteredIncompatible	compatible	scoreThreshold	maxDistance	minDelLength
+65	1581	1581	746	621	835	10	200	500
+66	5376	2426	1590	0	836	10	200	500
+
+report of run 2:
+----------------------
+#GENERATED_BY	cgatools
+#GENERATED_AT	2015-Oct-12 16:06:03.597889
+#CGATOOLS_VERSION	1.8.0
+#FORMAT_VERSION	2.4
+#TYPE	JUNCTIONDIFF_REPORT
+
+>fileId	inputJunctions	filteredJunctions	incompatible	filteredIncompatible	compatible	scoreThreshold	maxDistance	minDelLength
+65	621	621	504	504	117	10	200	500
+66	6489	2163	2047	0	116	10	200	500
+
+report of run 3:
+----------------------
+#GENERATED_BY	cgatools
+#GENERATED_AT	2015-Oct-12 16:06:03.655524
+#CGATOOLS_VERSION	1.8.0
+#FORMAT_VERSION	2.4
+#TYPE	JUNCTIONDIFF_REPORT
+
+>fileId	inputJunctions	filteredJunctions	incompatible	filteredIncompatible	compatible	scoreThreshold	maxDistance	minDelLength
+65	504	504	447	447	57	10	200	500
+66	4883	2088	2031	0	57	10	200	500
+
+

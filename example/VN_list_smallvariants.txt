@@ -1,0 +1,3 @@
+normals/smallvariants/var-NA06985-200-37-ASM_chr21.tsv
+normals/smallvariants/var-NA06994-200-37-ASM_chr21.tsv
+normals/smallvariants/var-NA07357-200-37-ASM_chr21.tsv
