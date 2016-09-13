@@ -249,7 +249,7 @@ The set of CG-sequenced normals used in the paper may be downloaded from the 100
 
 Here is a list of all the locations of the CG normals on the 1000Genomes site:
 
-ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/complete_genomics_indices/20130725.cg_data.untar.index
+ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/historical_data/former_toplevel/complete_genomics_indices/20130725.cg_data.untar.index
 
 (just download all files starting with "var-" (and for SVs download everything starting with "allJunctions") )
 
