@@ -6,6 +6,8 @@ This analysis can be run on both small variants (i.e. single nucleotide variants
 
 For any questions, please contact Saskia Hiltemann (s.hiltemann@erasmusmc.nl)
 
+Tools have moved to the main Galaxy ToolShed: https://toolshed.g2.bx.psu.edu/
+
 ## Example
 
 There is an example run using just 3 normals (chr21 only) and input from HCC1187 (chr21 only) available in the folder "example". See the README document in the example folder for more information about running the example data.
