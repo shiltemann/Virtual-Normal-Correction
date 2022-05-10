@@ -1,5 +1,10 @@
 # Virtual Normal Correction
 
+## Deprecation Notice
+
+This tool is currently deprecated and no longer useful. Please have a look at alternative tools, such as ones described and compared in [Little et. al. 2021, UNMASC: tumor-only variant calling with unmatched normal controls](https://pubmed.ncbi.nlm.nih.gov/34632388/ )
+
+## Documentation
 This code performs a virtual normal correction on a set of input variants. For more information see our paper in Genome Research [here](http://genome.cshlp.org/content/25/9/1382.abstract)
 
 This analysis can be run on both small variants (i.e. single nucleotide variants and indels of up to ~50 bps) and the larger structural variations (SVs)
